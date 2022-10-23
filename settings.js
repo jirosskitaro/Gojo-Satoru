@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
+global.owner = ['+212710550922']
+global.premium = ['+212710550922']
+global.ownernomer = '+212710550922'
 global.ownername = '( الـمـطـور )'
 global.botname = '( بـوت غـوجـو )'
 global.footer = '( غـوجـو )'
